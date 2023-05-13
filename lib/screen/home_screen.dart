@@ -138,7 +138,7 @@ class _home_screenState extends State<home_screen> {
                                             textAlign: TextAlign.left,
                                           ),
                                           Text(
-                                            "Data Structure",
+                                            "Planet",
                                             style: TextStyle(
                                                 fontSize: 23,
                                                 fontFamily: 'Avenir',
